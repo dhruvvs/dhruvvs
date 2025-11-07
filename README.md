@@ -41,26 +41,7 @@ I'm a <b>Master’s student in Computer Science at NJIT</b> (GPA: 3.94/4.0) with
 **🔹 iOS Intern – Elsner Technologies**  
 ● Created a Swift-based To-Do app using UIKit, AutoLayout, and GCD for smooth performance.
 
----
 
-## 🚀 Featured Projects
-
-**📊 Big Data Processing with MapReduce on AWS**  
-● Built a Hadoop-based ETL pipeline processing 600K+ app records. Used Java MapReduce and AWS EC2 cluster for price/category/rating analysis.
-
-**🛡️ Real-Time System Monitoring Dashboard**  
-● Developed a React + Chart.js frontend with real-time WebSocket streaming from a Python-MongoDB backend.
-
-**🍛 MasalaCart – Indian Cuisine E-commerce Platform**  
-● Django-based platform with Bootstrap UI and dynamic product logic powered by JSON.
-
-**🧠 Hate Speech Detection with RoBERTa**  
-● Fine-tuned transformer for social sentiment classification. Achieved 0.92 F1-score.
-
-**📈 Web Scraping & Visualization (R + Tableau)**  
-● Automated web scraping with R, cleaned using dplyr/tidyr, and visualized in Tableau.
-
----
 
 ## 🌐 Connect with Me
 
